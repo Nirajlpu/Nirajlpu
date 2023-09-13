@@ -47,7 +47,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Asim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nirajlpu&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
+[![Niraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nirajlpu&theme=github-compact)](https://github.com/asim1909/github-readme-activity-graph)
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
