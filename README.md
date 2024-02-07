@@ -22,7 +22,7 @@
 
 
 # <h1 align="center">💫 About Me: </h1>
-<h1 align="center"> Good problem-solver with a strong grasp of Data Structures and Algorithms. Proficient in programming languages such as                  |Java| Python|C++</h1>
+<h1 align="center"> Good problem-solver with a strong grasp of Data Structures and Algorithms. Proficient in programming languages such as <br>|Java| Python|C++</h1>
 
 - 👨‍💻 All about me is at [My Linkedin]([https://www.linkedin.com/in//](https://www.linkedin.com/in/niraj46/))
 
