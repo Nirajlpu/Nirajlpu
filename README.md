@@ -53,20 +53,20 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=Nirajlpu&show_icons=true&theme=radical" alt="Nirajlpu" /></a>
+<a href="https://github.com/Nirajlpu#"><img src="https://github-readme-stats.vercel.app/api?username=Nirajlpu&show_icons=true&theme=radical" alt="Nirajlpu" /></a>
 </p>
 
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
-<a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirajlpu&theme=radical&hide_border=false)" alt="Nirajlpu" /></a>
+<a href="https://github.com/Nirajlpu#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirajlpu&theme=radical&hide_border=false)" alt="Nirajlpu" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajlpu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nirajlpu" /></a>
+<a href="https://github.com/Nirajlpu#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajlpu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Nirajlpu" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -74,7 +74,7 @@
 <h2 align="center"> :trophy: Github Profile Trophy </h1>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n=Nirajlpu&theme=radical" alt="Nirajlpu" /></a>
+<a href="https://github.com/Nirajlpu#"><img src="https://github-profile-trophy.vercel.app/?username=n=Nirajlpu&theme=radical" alt="Nirajlpu" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------- -->
