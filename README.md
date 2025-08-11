@@ -135,31 +135,6 @@ A mobile application that sends real-time SOS alerts with precise location track
 
 ---
 
-## 🎓 Education & Certifications
-
-<table>
-  <tr>
-    <td width="70%">
-      🎓 &nbsp; **B.Tech in Computer Science** (2022-Present)
-      <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Lovely Professional University | CGPA: 7.23*
-    </td>
-    <td rowspan="3" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0cjQ0aGRqZmZ2Z21xZ2RkNXRvZ3h0NXNidGRqZTB2N3RkdTExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" alt="Certificates" width="100px" />
-    </td>
-  </tr>
-  <tr>
-    <td>📜 &nbsp; **Machine Learning Specialization** - *DeepLearning.AI & Stanford* (2024)</td>
-  </tr>
-  <tr>
-    <td>📜 &nbsp; **Meta Android Developer** - *Meta* (2024)</td>
-  </tr>
-    <tr>
-    <td>📜 &nbsp; **Ethical Hacking** - *NPTEL* (2024)</td>
-  </tr>
-</table>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nirajlpu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
